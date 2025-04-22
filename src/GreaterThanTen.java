@@ -6,6 +6,6 @@ public class GreaterThanTen {
 			System.out.println("10より大きい");
 		}else {
 			System.out.println("10より小さい");
-		}
+		}  
 	}
 }
