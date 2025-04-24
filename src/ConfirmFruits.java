@@ -7,7 +7,7 @@ public class ConfirmFruits {
 		
 		
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("購入した果物を入力してください");
+		System.out.println("購入したい果物を入力してください");
 		String fruit = scanner.nextLine();
 		
 		Map<String, Integer> prices = new HashMap<>();
