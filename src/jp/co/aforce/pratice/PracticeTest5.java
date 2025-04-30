@@ -61,6 +61,8 @@ public class PracticeTest5 {
 				System.out.print(i + ",");
 			}
 		}
+			
+			
 		
 		
 		for(int i = 1; i <=9; i++) {
@@ -99,22 +101,6 @@ public class PracticeTest5 {
 		System.out.println("");
 		System.out.println("未提出者は：");
 		System.out.println(employees);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-		
-		
-		
 		
 		
 	}
