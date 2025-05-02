@@ -33,7 +33,7 @@ public class BankAcount {
 		
 		acount.withdraw(80);
 		
-		System.out.println(acount.amount + "円");
+		System.out.println(acount.amount + "円"); 5 666666666666666666667\^221345890-\114y32121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212
 	}
 	
 }
